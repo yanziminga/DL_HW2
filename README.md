@@ -19,9 +19,11 @@ In this assignment, a sequence-to-sequence (S2VT) is trained to generate caption
 ### bleu_eval.py
 * calcualte the bleu score based on test result, which is saved in test_result.txt
 
+### test_result.txt
+* The output form the testing
 
 ## shell script for test the model performance
-
+* Add dataset -MLDS_hw2_data in current directory and run following command
 ```c
 sh hw2_seq2seq.sh  ./MLDS_hw2_1_data/testing_data/feat/  test_result.txt
 ```
