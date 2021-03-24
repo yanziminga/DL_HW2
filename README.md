@@ -35,7 +35,7 @@ python model_seq2seq.py
 
 ```
 ## testing
-Comment the model testing part and run following command:
+Comment the model training part and run following command:
 ```c
 python model_seq2seq.py
 ```
