@@ -1,7 +1,7 @@
 # Deep Learning Hw2
 
 ## Introduction
-In this assignment, a sequence-to-sequence (S2VT) is trained to generate caption for input videos
+In this assignment, Implementing a sequence-to-sequence (S2VT) to generate caption for input videos
 
 ## Requirement
 * Tensorflow 1.15
