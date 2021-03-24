@@ -10,17 +10,18 @@ In this assignment, Implementing a sequence-to-sequence (S2VT) to generate capti
 * json
 
 ## Details about each Part and corresponding code
-### dataprocess.py
-* Prepare the data for training and testing
+* dataprocess.py : Prepare the data for training and testing
 
-### model_seq2seq.py
-* Model,training and testing
+* model_seq2seq.py : Model,training and testing
 
-### bleu_eval.py
-* calcualte the bleu score based on test result, which is saved in test_result.txt
+* bleu_eval.py : calcualte the bleu score based on test result, which is saved in test_result.txt
 
-### test_result.txt
-* The output form the testing
+* test_result.txt : The output form the testing
+
+* model: trained model
+
+* data_tokenizer: training data token
+
 
 ## shell script for test the model performance
 * Add dataset -MLDS_hw2_data in current directory and run following command
