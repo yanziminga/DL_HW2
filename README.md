@@ -23,7 +23,7 @@ In this assignment, Implementing a sequence-to-sequence (S2VT) to generate capti
 * data_tokenizer: training data token
 
 
-## shell script for test the model performance
+## test the model performance
 * Add dataset -MLDS_hw2_data in current directory and run following command
 ```c
 sh hw2_seq2seq.sh  ./MLDS_hw2_1_data/testing_data/feat/  test_result.txt
